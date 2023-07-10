@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\bin\Debug\net6.0\RuntimeInput.exe
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\bin\Debug\net6.0\RuntimeInput.deps.json
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\bin\Debug\net6.0\RuntimeInput.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\bin\Debug\net6.0\RuntimeInput.dll
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\bin\Debug\net6.0\RuntimeInput.pdb
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.dll
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\refint\RuntimeInput.dll
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.pdb
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\RuntimeInput.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\RuntimeInput\obj\Debug\net6.0\ref\RuntimeInput.dll
