@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\bin\Debug\net6.0\ExampleP2.exe
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\bin\Debug\net6.0\ExampleP2.deps.json
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\bin\Debug\net6.0\ExampleP2.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\bin\Debug\net6.0\ExampleP2.dll
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\bin\Debug\net6.0\ExampleP2.pdb
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.dll
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\refint\ExampleP2.dll
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.pdb
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ExampleP2.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\ExampleP2\obj\Debug\net6.0\ref\ExampleP2.dll
