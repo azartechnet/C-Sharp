@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\bin\Debug\net6.0\Nestedloop.exe
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\bin\Debug\net6.0\Nestedloop.deps.json
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\bin\Debug\net6.0\Nestedloop.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\bin\Debug\net6.0\Nestedloop.dll
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\bin\Debug\net6.0\Nestedloop.pdb
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.dll
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\refint\Nestedloop.dll
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.pdb
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\Nestedloop.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\Nestedloop\obj\Debug\net6.0\ref\Nestedloop.dll

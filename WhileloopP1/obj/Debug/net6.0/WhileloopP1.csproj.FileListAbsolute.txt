@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\bin\Debug\net6.0\WhileloopP1.exe
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\bin\Debug\net6.0\WhileloopP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\bin\Debug\net6.0\WhileloopP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\bin\Debug\net6.0\WhileloopP1.dll
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\bin\Debug\net6.0\WhileloopP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.dll
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\refint\WhileloopP1.dll
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\WhileloopP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\WhileloopP1\obj\Debug\net6.0\ref\WhileloopP1.dll

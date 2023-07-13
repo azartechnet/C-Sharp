@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUU71nj+ih8GYrWxb3ErdEFHy++lSz3ALJQb7SOAMY30h2aJv9y28FU+BZvm0p9aaF1dCRzcnSUJL+yK+58WWA==",
+  "success": true,
+  "projectFilePath": "D:\\Livewire\\CSharpB1\\C#Sharp\\breakp1\\breakp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
