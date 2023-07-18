@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\bin\Debug\net6.0\StaticP1.exe
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\bin\Debug\net6.0\StaticP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\bin\Debug\net6.0\StaticP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\bin\Debug\net6.0\StaticP1.dll
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\bin\Debug\net6.0\StaticP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.dll
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\refint\StaticP1.dll
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\StaticP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\StaticP1\obj\Debug\net6.0\ref\StaticP1.dll

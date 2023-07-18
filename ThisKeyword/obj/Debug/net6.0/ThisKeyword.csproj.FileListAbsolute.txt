@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\bin\Debug\net6.0\ThisKeyword.exe
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\bin\Debug\net6.0\ThisKeyword.deps.json
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\bin\Debug\net6.0\ThisKeyword.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\bin\Debug\net6.0\ThisKeyword.dll
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\bin\Debug\net6.0\ThisKeyword.pdb
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.dll
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\refint\ThisKeyword.dll
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.pdb
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ThisKeyword.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\ThisKeyword\obj\Debug\net6.0\ref\ThisKeyword.dll
