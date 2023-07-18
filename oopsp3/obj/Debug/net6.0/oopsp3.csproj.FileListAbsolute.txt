@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\bin\Debug\net6.0\oopsp3.exe
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\bin\Debug\net6.0\oopsp3.deps.json
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\bin\Debug\net6.0\oopsp3.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\bin\Debug\net6.0\oopsp3.dll
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\bin\Debug\net6.0\oopsp3.pdb
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.dll
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\refint\oopsp3.dll
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.pdb
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\oopsp3.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\oopsp3\obj\Debug\net6.0\ref\oopsp3.dll
