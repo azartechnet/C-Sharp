@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\bin\Debug\net6.0\Callbyvalue.exe
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\bin\Debug\net6.0\Callbyvalue.deps.json
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\bin\Debug\net6.0\Callbyvalue.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\bin\Debug\net6.0\Callbyvalue.dll
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\bin\Debug\net6.0\Callbyvalue.pdb
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.dll
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\refint\Callbyvalue.dll
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.pdb
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\Callbyvalue.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyvalue\obj\Debug\net6.0\ref\Callbyvalue.dll

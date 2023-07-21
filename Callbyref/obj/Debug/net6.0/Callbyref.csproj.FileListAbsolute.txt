@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\bin\Debug\net6.0\Callbyref.exe
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\bin\Debug\net6.0\Callbyref.deps.json
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\bin\Debug\net6.0\Callbyref.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\bin\Debug\net6.0\Callbyref.dll
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\bin\Debug\net6.0\Callbyref.pdb
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.dll
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\refint\Callbyref.dll
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.pdb
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\Callbyref.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\Callbyref\obj\Debug\net6.0\ref\Callbyref.dll

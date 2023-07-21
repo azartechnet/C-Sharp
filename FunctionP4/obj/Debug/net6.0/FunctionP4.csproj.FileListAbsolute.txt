@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\bin\Debug\net6.0\FunctionP4.exe
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\bin\Debug\net6.0\FunctionP4.deps.json
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\bin\Debug\net6.0\FunctionP4.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\bin\Debug\net6.0\FunctionP4.dll
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\bin\Debug\net6.0\FunctionP4.pdb
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.dll
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\refint\FunctionP4.dll
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.pdb
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\FunctionP4.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP4\obj\Debug\net6.0\ref\FunctionP4.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OrWs/D8P4DFwvYGyfn6D1uY7WQK3CPi/LB0oBCEjFKUcWYr0X4QUvRrGycsF/cZ6fnul2qfAMbrn14FkA+K/w==",
+  "success": true,
+  "projectFilePath": "D:\\Livewire\\CSharpB1\\C#Sharp\\Callbyvalue\\Callbyvalue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\azart\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

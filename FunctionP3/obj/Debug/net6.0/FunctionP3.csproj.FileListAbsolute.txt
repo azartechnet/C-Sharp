@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\bin\Debug\net6.0\FunctionP3.exe
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\bin\Debug\net6.0\FunctionP3.deps.json
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\bin\Debug\net6.0\FunctionP3.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\bin\Debug\net6.0\FunctionP3.dll
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\bin\Debug\net6.0\FunctionP3.pdb
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.dll
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\refint\FunctionP3.dll
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.pdb
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\FunctionP3.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\FunctionP3\obj\Debug\net6.0\ref\FunctionP3.dll
