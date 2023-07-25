@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\bin\Debug\net6.0\JaggedArrayP1.exe
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\bin\Debug\net6.0\JaggedArrayP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\bin\Debug\net6.0\JaggedArrayP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\bin\Debug\net6.0\JaggedArrayP1.dll
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\bin\Debug\net6.0\JaggedArrayP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.dll
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\refint\JaggedArrayP1.dll
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\JaggedArrayP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\JaggedArrayP1\obj\Debug\net6.0\ref\JaggedArrayP1.dll

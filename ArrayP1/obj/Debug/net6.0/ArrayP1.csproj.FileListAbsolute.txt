@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\bin\Debug\net6.0\ArrayP1.exe
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\bin\Debug\net6.0\ArrayP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\bin\Debug\net6.0\ArrayP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\bin\Debug\net6.0\ArrayP1.dll
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\bin\Debug\net6.0\ArrayP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.dll
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\refint\ArrayP1.dll
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ArrayP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\ArrayP1\obj\Debug\net6.0\ref\ArrayP1.dll
