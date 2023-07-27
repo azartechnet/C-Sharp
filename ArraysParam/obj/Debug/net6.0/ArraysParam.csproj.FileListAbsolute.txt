@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\bin\Debug\net6.0\ArraysParam.exe
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\bin\Debug\net6.0\ArraysParam.deps.json
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\bin\Debug\net6.0\ArraysParam.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\bin\Debug\net6.0\ArraysParam.dll
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\bin\Debug\net6.0\ArraysParam.pdb
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.dll
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\refint\ArraysParam.dll
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.pdb
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ArraysParam.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\ArraysParam\obj\Debug\net6.0\ref\ArraysParam.dll
