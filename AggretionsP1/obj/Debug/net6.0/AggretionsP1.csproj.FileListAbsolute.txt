@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\bin\Debug\net6.0\AggretionsP1.exe
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\bin\Debug\net6.0\AggretionsP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\bin\Debug\net6.0\AggretionsP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\bin\Debug\net6.0\AggretionsP1.dll
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\bin\Debug\net6.0\AggretionsP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.dll
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\refint\AggretionsP1.dll
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\AggretionsP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\AggretionsP1\obj\Debug\net6.0\ref\AggretionsP1.dll
