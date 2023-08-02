@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\bin\Debug\net6.0\AbstractP1.exe
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\bin\Debug\net6.0\AbstractP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\bin\Debug\net6.0\AbstractP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\bin\Debug\net6.0\AbstractP1.dll
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\bin\Debug\net6.0\AbstractP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.dll
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\refint\AbstractP1.dll
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\AbstractP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\AbstractP1\obj\Debug\net6.0\ref\AbstractP1.dll
