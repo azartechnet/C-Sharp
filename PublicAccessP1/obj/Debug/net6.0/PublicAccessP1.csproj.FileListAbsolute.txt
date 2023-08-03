@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\bin\Debug\net6.0\PublicAccessP1.exe
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\bin\Debug\net6.0\PublicAccessP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\bin\Debug\net6.0\PublicAccessP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\bin\Debug\net6.0\PublicAccessP1.dll
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\bin\Debug\net6.0\PublicAccessP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.dll
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\refint\PublicAccessP1.dll
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\PublicAccessP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\PublicAccessP1\obj\Debug\net6.0\ref\PublicAccessP1.dll
