@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\bin\Debug\net6.0\ExceptionP2.exe
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\bin\Debug\net6.0\ExceptionP2.deps.json
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\bin\Debug\net6.0\ExceptionP2.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\bin\Debug\net6.0\ExceptionP2.dll
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\bin\Debug\net6.0\ExceptionP2.pdb
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.dll
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\refint\ExceptionP2.dll
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.pdb
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ExceptionP2.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\ExceptionP2\obj\Debug\net6.0\ref\ExceptionP2.dll
