@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\bin\Debug\net6.0\FileOperations.exe
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\bin\Debug\net6.0\FileOperations.deps.json
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\bin\Debug\net6.0\FileOperations.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\bin\Debug\net6.0\FileOperations.dll
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\bin\Debug\net6.0\FileOperations.pdb
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.dll
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\refint\FileOperations.dll
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.pdb
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\FileOperations.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\FileOperations\obj\Debug\net6.0\ref\FileOperations.dll

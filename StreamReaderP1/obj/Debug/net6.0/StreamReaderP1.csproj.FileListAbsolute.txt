@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\bin\Debug\net6.0\StreamReaderP1.exe
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\bin\Debug\net6.0\StreamReaderP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\bin\Debug\net6.0\StreamReaderP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\bin\Debug\net6.0\StreamReaderP1.dll
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\bin\Debug\net6.0\StreamReaderP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.dll
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\refint\StreamReaderP1.dll
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\StreamReaderP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\StreamReaderP1\obj\Debug\net6.0\ref\StreamReaderP1.dll
