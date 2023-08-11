@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\bin\Debug\net6.0\TextWriterP1.exe
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\bin\Debug\net6.0\TextWriterP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\bin\Debug\net6.0\TextWriterP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\bin\Debug\net6.0\TextWriterP1.dll
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\bin\Debug\net6.0\TextWriterP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.dll
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\refint\TextWriterP1.dll
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\TextWriterP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\TextWriterP1\obj\Debug\net6.0\ref\TextWriterP1.dll
