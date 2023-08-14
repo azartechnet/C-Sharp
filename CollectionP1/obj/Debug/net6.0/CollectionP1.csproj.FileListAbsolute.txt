@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\bin\Debug\net6.0\CollectionP1.exe
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\bin\Debug\net6.0\CollectionP1.deps.json
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\bin\Debug\net6.0\CollectionP1.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\bin\Debug\net6.0\CollectionP1.dll
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\bin\Debug\net6.0\CollectionP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.dll
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\refint\CollectionP1.dll
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.pdb
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\CollectionP1.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\CollectionP1\obj\Debug\net6.0\ref\CollectionP1.dll
