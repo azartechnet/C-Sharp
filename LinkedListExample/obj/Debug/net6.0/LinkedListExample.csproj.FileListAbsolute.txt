@@ -1,0 +1,15 @@
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\bin\Debug\net6.0\LinkedListExample.exe
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\bin\Debug\net6.0\LinkedListExample.deps.json
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\bin\Debug\net6.0\LinkedListExample.runtimeconfig.json
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\bin\Debug\net6.0\LinkedListExample.dll
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\bin\Debug\net6.0\LinkedListExample.pdb
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.csproj.AssemblyReference.cache
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.AssemblyInfoInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.AssemblyInfo.cs
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.csproj.CoreCompileInputs.cache
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.dll
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\refint\LinkedListExample.dll
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.pdb
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\LinkedListExample.genruntimeconfig.cache
+D:\Livewire\CSharpB1\C#Sharp\LinkedListExample\obj\Debug\net6.0\ref\LinkedListExample.dll
